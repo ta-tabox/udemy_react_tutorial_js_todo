@@ -1,7 +1,7 @@
 {
-  "name": "react-tutorial",
+  "name": "udemy-react-tutorial",
   "version": "1.0.0",
-  "description": "モダンJavaScriptの基礎から始めるReact入門",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
